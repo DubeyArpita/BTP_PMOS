@@ -1,0 +1,21 @@
+Gene,Role,K_g,MR_instr,GWAS_PCOS,GWAS_EC,Sources
+ESR1,Estrogen receptor α,0.60,—,✓,✓,GWAS_PCOS;GWAS_EC;Shared_GWAS
+PGR,Progesterone receptor,0.20,—,—,✓,GWAS_EC
+INSR,Insulin receptor,0.20,—,✓,—,GWAS_PCOS
+PIK3CA,PI3K catalytic subunit,0.60,—,✓,✓,GWAS_PCOS;GWAS_EC;Shared_GWAS
+AKT1,AKT kinase,1.00,✓,✓,✓,MR_EC_instrument;GWAS_PCOS;GWAS_EC;Shared_GWAS
+PTEN,Tumour suppressor,0.20,—,—,✓,GWAS_EC
+TP53,p53,0.20,—,—,✓,GWAS_EC
+CTNNB1,β-catenin,0.20,—,—,✓,GWAS_EC
+KRAS,RAS oncogene,0.20,—,—,✓,GWAS_EC
+CYP19A1,Aromatase,1.00,✓,✓,✓,MR_EC_instrument;GWAS_PCOS;GWAS_EC;Shared_GWAS
+CYP17A1,Steroid 17α-hydroxylase,0.20,—,✓,—,GWAS_PCOS
+SHBG,Sex hormone-binding globulin,0.20,—,✓,—,GWAS_PCOS
+FSHB,FSH β-subunit,0.60,✓,✓,—,MR_PCOS_instrument;GWAS_PCOS
+LHCGR,LH/CG receptor,0.60,✓,✓,—,MR_PCOS_instrument;GWAS_PCOS
+FSHR,FSH receptor,0.20,—,✓,—,GWAS_PCOS
+ERBB3,HER3 receptor,0.60,✓,✓,—,MR_PCOS_instrument;GWAS_PCOS
+ERBB4,HER4 receptor,0.20,—,✓,—,GWAS_PCOS
+HNF1B,HNF1 homeobox B,0.60,✓,—,✓,MR_EC_instrument;GWAS_EC
+MYC,Proto-oncogene,0.60,✓,—,✓,MR_EC_instrument;GWAS_EC
+THADA,THADA armadillo repeat,0.60,✓,✓,—,MR_PCOS_instrument;GWAS_PCOS
