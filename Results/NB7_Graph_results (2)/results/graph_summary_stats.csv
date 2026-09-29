@@ -1,0 +1,17 @@
+Metric,Value
+Total nodes,32
+Total edges,21
+Density,0.042339
+Connected components,13
+Largest CC nodes,4
+Largest CC fraction,12.5%
+Mean degree,1.3
+Median degree,1
+Max degree,3
+Bridge genes in PPI,29
+STRING score threshold,700
+Communities (Louvain),2
+Largest community,28
+PCOSKB2 overlap (bridge),513 / 23277
+PCOSKB2 Fisher p-value,1.30e-43
+Multi-stage bridge genes,223 / 23277
