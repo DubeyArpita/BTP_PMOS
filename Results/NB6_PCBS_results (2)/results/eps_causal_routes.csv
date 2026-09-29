@@ -1,0 +1,21 @@
+Route,Start_Factor,Steps,EPS,Weakest_Edge,Via_Pathway
+Hyperinsulinemia -> Insulin Signaling -> Endometrial Cancer,Hyperinsulinemia,3,0.5931,0.659,Insulin Signaling
+Insulin Resistance -> Hyperinsulinemia -> Insulin Signaling -> Endometrial Cancer,Insulin Resistance,4,0.563445,0.659,Insulin Signaling
+Obesity -> Insulin Resistance -> Hyperinsulinemia -> Insulin Signaling -> Endometrial Cancer,Obesity,5,0.5071,0.659,Insulin Signaling
+Hyperinsulinemia -> PI3K-AKT Signaling -> Endometrial Cancer,Hyperinsulinemia,3,0.48195,0.567,PI3K-AKT Signaling
+Insulin Resistance -> Hyperinsulinemia -> PI3K-AKT Signaling -> Endometrial Cancer,Insulin Resistance,4,0.457852,0.567,PI3K-AKT Signaling
+Insulin Resistance -> PI3K-AKT Signaling -> Endometrial Cancer,Insulin Resistance,3,0.42525,0.567,PI3K-AKT Signaling
+Obesity -> Insulin Resistance -> Hyperinsulinemia -> PI3K-AKT Signaling -> Endometrial Cancer,Obesity,5,0.412067,0.567,PI3K-AKT Signaling
+Obesity -> Insulin Resistance -> PI3K-AKT Signaling -> Endometrial Cancer,Obesity,4,0.382725,0.567,PI3K-AKT Signaling
+Estrogen Excess -> Wnt / beta-catenin -> Endometrial Cancer,Estrogen Excess,3,0.3696,0.6,Wnt / beta-catenin
+Estrogen Excess -> Estrogen Signaling -> Endometrial Cancer,Estrogen Excess,3,0.3357,0.373,Estrogen Signaling
+Chronic Anovulation -> Estrogen Excess -> Wnt / beta-catenin -> Endometrial Cancer,Chronic Anovulation,4,0.29568,0.6,Wnt / beta-catenin
+Obesity -> Estrogen Excess -> Wnt / beta-catenin -> Endometrial Cancer,Obesity,4,0.2772,0.6,Wnt / beta-catenin
+Chronic Anovulation -> Estrogen Excess -> Estrogen Signaling -> Endometrial Cancer,Chronic Anovulation,4,0.26856,0.373,Estrogen Signaling
+Hyperandrogenism -> Estrogen Excess -> Wnt / beta-catenin -> Endometrial Cancer,Hyperandrogenism,4,0.25872,0.6,Wnt / beta-catenin
+Obesity -> Estrogen Excess -> Estrogen Signaling -> Endometrial Cancer,Obesity,4,0.251775,0.373,Estrogen Signaling
+Hyperandrogenism -> Estrogen Excess -> Estrogen Signaling -> Endometrial Cancer,Hyperandrogenism,4,0.23499,0.373,Estrogen Signaling
+Obesity -> Inflammatory / NF-kB -> Endometrial Cancer,Obesity,3,0.1582,0.226,Inflammatory / NF-kB
+Hyperandrogenism -> Steroid Biosynthesis -> Endometrial Cancer,Hyperandrogenism,3,0.1545,0.206,Steroid Biosynthesis
+Hyperandrogenism -> Steroid Biosynthesis -> Hyperplasia -> Endometrial Cancer,Hyperandrogenism,4,0.0945,0.14,Steroid Biosynthesis
+Obesity -> Inflammatory / NF-kB -> Hyperplasia -> Endometrial Cancer,Obesity,4,0.08505,0.135,Inflammatory / NF-kB
