@@ -1,0 +1,21 @@
+Gene,Role,logFC_N→H,logFC_H→ECa,logFC_ECa→ACa,Trend,D_g
+ESR1,Estrogen receptor α,+0.799,-2.870,-2.985,Late_Down,-0.6667
+PGR,Progesterone receptor,-0.980,-4.691,-5.731,Monotonic_Down,-1.0000
+INSR,Insulin receptor,+0.086,-1.513,-0.199,Late_Down,-0.5420
+PIK3CA,PI3K catalytic subunit,+0.705,-0.475,+0.528,Non_monotonic,+0.2526
+AKT1,AKT kinase,-1.084,+0.424,-0.152,Non_monotonic,-0.2708
+PTEN,Tumour suppressor,-0.463,-1.015,-0.860,Monotonic_Down,-1.0000
+TP53,p53,-1.144,+0.443,-0.042,Non_monotonic,-0.2475
+CTNNB1,β-catenin,+0.285,+0.251,-1.365,Partial_Up,+0.2765
+KRAS,RAS oncogene,-0.180,+0.427,-0.398,Non_monotonic,-0.0503
+SERPINE1,PAI-1 (thrombosis / invasion),-1.082,+2.810,-1.293,Non_monotonic,-0.1451
+CYP19A1,Aromatase,+5.650,+0.168,+0.173,Monotonic_Up,+1.0000
+MMP9,Matrix metalloproteinase,-0.899,+2.534,+4.017,Late_Up,+0.6667
+IL6,Interleukin-6,+1.555,+2.628,-2.346,Partial_Up,+0.6121
+TNF,TNFα,+0.844,+1.170,+4.113,Monotonic_Up,+1.0000
+VEGFA,Angiogenesis,+0.027,+0.629,+0.900,Monotonic_Up,+0.7776
+MYD88,Innate immune signalling,-0.326,+0.750,+0.542,Late_Up,+0.3219
+JUN,AP-1 transcription factor,+0.737,-0.693,+1.171,Non_monotonic,+0.4048
+CXCL8,IL-8 chemokine,-1.400,+3.585,-0.013,Non_monotonic,-0.6667
+IFNG,IFN-γ,+2.303,+3.220,-3.594,Partial_Up,+0.6431
+IL10,Anti-inflammatory cytokine,-1.099,+2.472,-2.289,Non_monotonic,-0.3056
