@@ -1,0 +1,21 @@
+Gene,Role,logFC,adj_pvalue,Direction
+ESR1,Estrogen receptor α,-1.770,9.81e-04,Down
+PGR,Progesterone receptor,-3.777,1.10e-07,Down
+INSR,Insulin receptor,-1.607,3.82e-15,Down
+PIK3CA,PI3K catalytic subunit,-0.326,2.39e-01,NS
+AKT1,AKT kinase,+0.377,2.85e-04,Up
+PTEN,Tumour suppressor,-0.911,6.49e-06,Down
+TP53,p53,+0.311,2.35e-01,NS
+CTNNB1,β-catenin,-0.452,1.99e-03,Down
+KRAS,RAS oncogene,+0.411,1.31e-02,Up
+SERPINE1,PAI-1 (thrombosis / invasion),-0.805,3.38e-02,Down
+CYP19A1,Aromatase,+0.325,2.89e-01,NS
+MMP9,Matrix metalloproteinase,+2.985,1.30e-09,Up
+IL6,Interleukin-6,-0.594,2.81e-01,NS
+TNF,TNFα,+1.698,4.48e-04,Up
+VEGFA,Angiogenesis,+0.357,1.59e-01,NS
+MYD88,Innate immune signalling,+0.352,1.91e-02,Up
+JUN,AP-1 transcription factor,-1.886,5.25e-13,Down
+CXCL8,IL-8 chemokine,—,—,Not found
+IFNG,IFN-γ,+0.935,4.76e-02,Up
+IL10,Anti-inflammatory cytokine,+1.310,3.04e-04,Up
